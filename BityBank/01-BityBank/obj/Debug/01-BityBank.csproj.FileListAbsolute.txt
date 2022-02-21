@@ -1,0 +1,7 @@
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.exe.config
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.exe
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.pdb
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.csproj.AssemblyReference.cache
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.csproj.CoreCompileInputs.cache
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.exe
+D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.pdb
