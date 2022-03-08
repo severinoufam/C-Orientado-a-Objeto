@@ -5,3 +5,10 @@ D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-Bi
 D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.csproj.CoreCompileInputs.cache
 D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.exe
 D:\Users\Seven\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.pdb
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.exe.config
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.exe
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\bin\Debug\01-BityBank.pdb
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.csproj.AssemblyReference.cache
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.csproj.CoreCompileInputs.cache
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.exe
+D:\Users\Severino\Desktop\C-Orientado-a-Objeto\BityBank\01-BityBank\obj\Debug\01-BityBank.pdb

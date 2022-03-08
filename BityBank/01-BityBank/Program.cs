@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace _01_BityBank
 {
@@ -10,25 +6,38 @@ namespace _01_BityBank
     {
         static void Main(string[] args)
         {
-            int somaSaldo = 150;
+            double deposito1 = 400;
+            double saque1 = 0;
 
-            ContaCorrente conta = new ContaCorrente();
+            double deposito2 = 500;
+            double saque2 = 0;
 
-            conta.titular = "severino";
-            conta.agencia = 123;
-            conta.numero = 321;
-            conta.saldo = 100;
+            double transferencia = 1000;
 
-            conta.saldo += somaSaldo;
+            ContaCorrente contaSeverino = new ContaCorrente();
+            contaSeverino.titular = "severino";
+            Console.WriteLine("Titular: " + contaSeverino.titular);
 
-            Console.WriteLine("Titular: " + conta.titular);
-            Console.WriteLine("Agencia: " + conta.agencia);
-            Console.WriteLine("Numero: " + conta.numero);
-            Console.WriteLine("Saldo: " + conta.saldo);
 
-            //valor padrao
+            contaSeverino.Depositar(deposito1);
+            Console.WriteLine("Valor depositado: " + deposito1);
+            Console.WriteLine("Saldo atual: " + contaSeverino.saldo);
 
-            //tipo de referencia e tipo de valor
+
+            Console.WriteLine("------------------------------");
+
+            ContaCorrente contaAldenise = new ContaCorrente();
+            contaAldenise.titular = "aldenise";
+            Console.WriteLine("Titular: " + contaAldenise.titular);
+
+            contaAldenise.Depositar(deposito2);
+            Console.WriteLine("Valor depositado: " + deposito2);
+            Console.WriteLine("Saldo atual: " + contaAldenise.saldo);
+
+            bool resuldado = contaAldenise.Transferencia(transferencia, contaSeverino);
+            Console.WriteLine("Saldo atual severino: " + contaSeverino.saldo);
+            Console.WriteLine("Saldo atual aldenise: " + contaAldenise.saldo);
+            Console.WriteLine("resultado: " + resuldado);
 
             Console.ReadLine();
 
